@@ -8,4 +8,6 @@ Comprobar estas 3 configuraciones del fichero php.ini:
 - upload_tmp_dir
 - upload_max_filesize
 
-asd
+Entiendo que tengo que seguir mejorando en arquitectura y ordenar este proyecto de manera correcta.
+
+Al mismo tiempo entiendo que debo desarrollar una mejor logica de control e inyeccion de dependencias
